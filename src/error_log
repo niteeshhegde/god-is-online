@@ -1,0 +1,8 @@
+[02-Jul-2016 13:48:17 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'niteesh'@'localhost' (using password: YES) in /home/hegdenit/public_html/picsavset2.php on line 21
+[02-Jul-2016 13:48:17 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/hegdenit/public_html/picsavset2.php on line 23
+[02-Jul-2016 13:48:17 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/hegdenit/public_html/picsavset2.php on line 25
+[02-Jul-2016 14:31:27 UTC] PHP Notice:  Undefined variable: Upanayanas in /home/hegdenit/public_html/pandits2.php on line 353
+[02-Jul-2016 14:31:31 UTC] PHP Notice:  Undefined variable: Upanayanas in /home/hegdenit/public_html/pandits2.php on line 353
+[02-Jul-2016 14:31:42 UTC] PHP Notice:  Undefined variable: Upanayanas in /home/hegdenit/public_html/pandits2.php on line 353
+[02-Jul-2016 14:31:42 UTC] PHP Notice:  Undefined variable: Upanayanas in /home/hegdenit/public_html/pandits2.php on line 353
+[09-Jul-2016 09:57:16 UTC] PHP Fatal error:  Call to a member function format() on a non-object in /home/hegdenit/public_html/saveapply.php on line 31

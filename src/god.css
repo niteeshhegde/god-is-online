@@ -1,0 +1,130 @@
+#head{
+	color:red;
+	padding: 1px 15px 1px 15px;
+}
+
+.nav,.navbar-brand,#bs-example-navbar-collapse-1,.container-fluid,.dropdown-menu a,.navbar-brand a{
+	color:black;
+	background-color:#ff6600;
+}
+.nav a,.navbar-brand,#bs-example-navbar-collapse-1 a,.container-fluid a,.navbar-header{
+	color:white;
+}
+#brand{
+	color:white;
+}
+#300{
+	height:300px;
+}
+.dropdown,.dropdown-menu ul{
+	text-align:center;
+	float:center;
+}
+#tempd,.row,#bigt{
+	border: 5px solid black;
+	text-align:center;
+	float:center;
+	position:center;
+	}
+	#table td{
+		color:white;
+	}
+	#img{
+		margin-left:10px;
+		margin-right:15px;
+		float:center;
+		
+	}
+	#tempd td hover{
+		background:red;
+	}
+	#tog{
+		background-color:white;
+	}
+	tr:hover,td:hover{
+	background-color:red;
+	color:white;
+}
+#desc tr:hover, #desc td:hover{
+	background-color:white;
+	color:black;
+}
+
+	footer {
+	background-color:#ff6600;
+	display:inline-block;
+	-webkit-box-pack:center;
+	-webkit-box-flex:1;
+	font-family:comic sans;
+	color:white;
+-webkit-box-orient:vertical-alignal;
+width:100%
+}
+footer a{
+	color:white;
+}
+#image1{
+	margin-top:10px;
+	margin-bottom:10px;
+}
+#cr,#us{
+	display:-webkit-box;
+	-webkit-box-pack:center;
+	-webkit-box-flex:1;
+	font-family:comic sans;
+	color:white;
+	float:bottom;
+padding: 10px 10px 10px 10px;
+}
+	#desc{
+		
+			display:-webkit-box;
+	-webkit-box-pack:center;
+	-webkit-box-flex:1;
+	max-width:1000px;
+	}
+	#desc table td{
+	color:black;
+	}
+	#hdpj{
+		text-align:center;
+	}
+	    #mobile{
+	  display:none;
+  }
+    #emaiil {
+	  	  text-align:center;
+	  margin: 5px 5px 5px 5px;
+	  background-color:orange;
+  }
+	@media all and (max-width: 599px) and (min-width: 50px) {
+#desc{
+    display:inline-block;
+		font-size:17px;
+  }
+
+  #table10 tr td{
+	  		display:webkit-box;
+	-webkit-box-pack:center;
+	-webkit-box-flex:1;
+	font-size:15px;
+  }
+
+  
+  #mobile{
+	  width:300px;
+	  text-align:center;
+	  margin: 5px 5px 5px 5px;
+	  background-color:orange;
+	  		display:inline-block;
+	-webkit-box-pack:center;
+	-webkit-box-flex:1;
+	font-size:15px;
+  }
+  #lappie{
+	  display:none;
+  }
+  #tempd,.row,#bigt{
+	-webkit-box-flex:1;
+	border: 0px solid black;
+  }
